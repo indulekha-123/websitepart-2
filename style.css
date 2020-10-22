@@ -1,0 +1,30 @@
+
+h1{
+    color:brown;
+}
+
+
+*{
+    border:sienna;
+
+
+}
+.heading{
+    text-align: center;
+    }
+    a{
+      justify-content: space-between;
+    }
+    .header{
+        display: flex;
+            justify-content: center;  
+            
+    }
+    .things{
+       
+            display: flex;
+            flex-direction:column;  
+
+        }
+
+
